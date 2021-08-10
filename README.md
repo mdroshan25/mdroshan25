@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mdroshan25
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @mdroshan
+- 👀 I’m interested in Many things, coding is one of them.
+- 🌱 I’m currently learning python, django, aws
+- 💞️ I’m looking to collaborate on business ideas
+- 📫 How to reach me roshanm2105@gmail.com
 
 <!---
 mdroshan25/mdroshan25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
